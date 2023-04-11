@@ -52,7 +52,7 @@ onMounted(() => {
             href="XXX"
             target="_blank"
           >
-            ChatGPT-4-3.17
+            GPT-4
           </a>
           模型开发，请珍惜使用机会，切勿滥用以及违反法律法规
         </p>
